@@ -1,10 +1,4 @@
-<br clear="both">
-
 <h6 align="center">WELCOME</h6>
-
-###
-
-<br clear="both">
 
 <h6 align="left">👋 Hi, I'm Michael Ricamata <br>🧠 Beginner programmer exploring Python, Java and C<br>🛠️ Building small projects and solving coding challenges  <br>📚 Learning OOP, logic, and basic algorithms  <br>🚀 On a journey to become a real-world developer</h6>
 
