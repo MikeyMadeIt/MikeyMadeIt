@@ -1,30 +1,100 @@
-### 💫 About Me:
-💻 Computer Science Student | Learning One Line of Code at a Time<br>Passionate about programming, cybersecurity, and building cool projects.<br>Currently exploring HTML, CSS, JavaScript, and Java.<br>Always learning, always building. 🚀
+<br clear="both">
 
+<h6 align="center">WELCOME</h6>
 
-### 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mikeymansta) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mikieeyy) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michaelangeloricamata@gmail.com) 
+###
 
-### 📄 Read my Resume
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue?style=for-the-badge&logo=adobeacrobat)](https://github.com/MikeyMata/Read-My-Resume.git)
+<br clear="both">
 
-### 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-### 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MikeyMadeIt&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MikeyMadeIt&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MikeyMadeIt&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h6 align="left">👋 Hi, I'm Michael Ricamata <br>🧠 Beginner programmer exploring Python, Java and C<br>🛠️ Building small projects and solving coding challenges  <br>📚 Learning OOP, logic, and basic algorithms  <br>🚀 On a journey to become a real-world developer</h6>
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MikeyMadeIt&theme=vue-dark&no-frame=true&no-bg=true&margin-w=4)
+###
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<br clear="both">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MikeyMadeIt&limit=5&theme=blue-green&combine_all_yearly_contributions=true)
+<h6 align="left">🌟 WHAT I KNOW SO FAR:</h6>
 
----
-[![](https://visitcount.itsvg.in/api?id=MikeyMadeIt&icon=2&color=6)](https://visitcount.itsvg.in)
+###
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<br clear="both">
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h6 align="left">📊 MY STATS AND ACTIVITY:</h6>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MikeyMadeIt&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MikeyMadeIt&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true&order=2&custom_title=MY%20LANGUAGES" height="100" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=MikeyMadeIt&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j/n%5B/Y%5D&order=3" height="100" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=MikeyMadeIt&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikeyMadeIt&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h6 align="left">🌐 CONTACT:</h6>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <a href="https://www.facebook.com/mikeymansta" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="43" height="35" alt="facebook logo"  />
+  </a>
+  <a href="https://www.instagram.com/mikieeyy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="43" height="35" alt="instagram logo"  />
+  </a>
+  <a href="t.me/mikeymansta" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="43" height="35" alt="telegram logo"  />
+  </a>
+  <a href="michaelangeloricamata@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="43" height="35" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<h6 align="left">🟡 PACMAN:</h6>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeyMadeIt/MikeyMadeIt/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MikeyMadeIt/MikeyMadeIt/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MikeyMadeIt/MikeyMadeIt/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<br clear="both">
+
+<h6 align="left">🐍 SNAKE:</h6>
+
+###
+
+<img src="https://raw.githubusercontent.com/MikeyMadeIt/MikeyMadeIt/output/snake.svg" alt="Snake animation" />
+
+###
