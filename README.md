@@ -2,15 +2,7 @@
 
 <h6 align="left">👋 Hi, I'm Michael Ricamata <br>🧠 Beginner programmer exploring Python, Java and C<br>🛠️ Building small projects and solving coding challenges  <br>📚 Learning OOP, logic, and basic algorithms  <br>🚀 On a journey to become a real-world developer</h6>
 
-###
-
-<br clear="both">
-
 <h6 align="left">🌟 WHAT I KNOW SO FAR:</h6>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
@@ -24,15 +16,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h6 align="left">📊 MY STATS AND ACTIVITY:</h6>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MikeyMadeIt&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=true&order=1" height="100" alt="stats graph"  />
@@ -42,15 +26,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MikeyMadeIt&radius=16&theme=react&area=true&order=5&hide_border=true&hide_title=true" height="300" alt="activity-graph graph"  />
 </div>
 
-###
-
-<br clear="both">
-
 <h6 align="left">🌐 CONTACT:</h6>
-
-###
-
-<br clear="both">
 
 <div align="center">
   <a href="https://www.facebook.com/mikeymansta" target="_blank">
@@ -67,13 +43,7 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
 <h6 align="left">🟡 PACMAN:</h6>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MikeyMadeIt/MikeyMadeIt/output/pacman-contribution-graph-dark.svg">
@@ -81,14 +51,6 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MikeyMadeIt/MikeyMadeIt/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<br clear="both">
-
 <h6 align="left">🐍 SNAKE:</h6>
 
-###
-
 <img src="https://raw.githubusercontent.com/MikeyMadeIt/MikeyMadeIt/output/snake.svg" alt="Snake animation" />
-
-###
