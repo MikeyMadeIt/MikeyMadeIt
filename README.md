@@ -2,40 +2,22 @@
 
 <img src="assets/banner.svg" alt="banner" width="100%"/>
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│  michael ricamata  ·  building from zero  ·  still learning │
-└─────────────────────────────────────────────────────────────┘
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=A259FF&center=true&vCenter=true&width=500&lines=Python+%7C+Java+%7C+C;Learning+OOP+%26+algorithms;Turning+curiosity+into+code;One+commit+at+a+time.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=6E9EFF&center=true&vCenter=true&width=480&lines=Hi+%F0%9F%91%8B+I'm+Michael+Ricamata;Python+%7C+Java+%7C+C;Learning+OOP+%26+Algorithms;Building+one+project+at+a+time)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## `whoami`
+### 👋 About Me
 
-```python
-class Michael:
-    name       = "Michael Ricamata"
-    alias      = "MikeyMadeIt"
-    status     = "beginner → builder"
-    focus      = ["Python", "Java", "C"]
-    learning   = ["OOP", "algorithms", "logic"]
-    goal       = "ship real-world software"
-    open_to    = ["collabs", "feedback", "challenges"]
-```
+Hi, I'm **Michael Ricamata** — a beginner programmer on a mission to become a real-world developer.
+I enjoy exploring Python, Java, and C, building small projects, and leveling up my understanding of OOP, logic, and algorithms. Still early, but making moves every day. 🚀
 
 ---
 
-## `stack.txt`
+### 🛠️ Tech Stack
 
 <div align="center">
 
@@ -49,23 +31,23 @@ class Michael:
 
 ---
 
-## `stats --all`
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MikeyMadeIt&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" height="150"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeyMadeIt&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api?username=MikeyMadeIt&theme=tokyonight&hide_border=true&include_all_commits=true&show_icons=true&rank_icon=github" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MikeyMadeIt&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" height="160"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=MikeyMadeIt&theme=tokyonight&hide_border=true" height="140"/>
+<img src="https://nirzak-streak-stats.vercel.app/?user=MikeyMadeIt&theme=tokyonight&hide_border=true" height="150"/>
 
 </div>
 
 ---
 
-## `trophies --display`
+### 🏆 Trophies
 
 <div align="center">
 
@@ -75,44 +57,13 @@ class Michael:
 
 ---
 
-## `activity --graph`
-
-<div align="center">
-
-[![Mikey's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MikeyMadeIt&theme=tokyo-night&hide_border=true&area=true)](https://github.com/MikeyMadeIt)
-
-</div>
-
----
-
-## `connect --socials`
+### 🌐 Socials
 
 <div align="center">
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/mikeymansta)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mikieeyy)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelangeloricamata@gmail.com)
-
-</div>
-
----
-
-## `quote --random`
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## `support.md`
-
-<div align="center">
-
-If my projects helped you or sparked something — you can fuel the grind ☕
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michaelangeloricamata@gmail.com)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/MichaelRicamata)
 
 </div>
@@ -121,8 +72,8 @@ If my projects helped you or sparked something — you can fuel the grind ☕
 
 <div align="center">
 
-<sub>built with curiosity · powered by caffeine · still compiling</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=MikeyMadeIt&style=flat-square&color=6E9EFF&label=PROFILE+VIEWS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=MikeyMadeIt&style=flat-square&color=A259FF&label=PROFILE+VIEWS)
+<sub>still learning · still building · still here 🔥</sub>
 
 </div>
