@@ -1,3 +1,5 @@
+![banner](assets/banner.svg)
+
 ### 💫 About Me:
 👋 Hi, I'm Michael Ricamata <br>🧠 Beginner programmer exploring Python, Java and C  <br>🛠️ Building small projects and solving coding challenges  <br>📚 Learning OOP, logic, and basic algorithms  <br>🚀 On a journey to become a real-world developer
 
